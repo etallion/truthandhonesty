@@ -1,2 +1,3 @@
 # truthandhonesty
-Will and Ed's amazing collaboration
+
+A news aggregator and online community.
